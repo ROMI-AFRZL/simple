@@ -1,6 +1,3 @@
-
-<img src="https://github.com/ROMI-AFRZL/simple/blob/main/rom/s.png" width="640" title="Menu" alt="Menu"> 
-
 ## Command
 ````
 • pkg update && pkg upgrade 
@@ -15,6 +12,8 @@
 • ls 
 • python2 simple.py
 ````
+<img src="https://github.com/ROMI-AFRZL/simple/blob/main/rom/s.png" width="640" title="Menu" alt="Menu"> 
+
 #
 Brute force facebook using manual passwords
 #
