@@ -1,3 +1,6 @@
+
+<img src="https://github.com/ROMI-AFRZL/simple/blob/main/s.png" width="640" title="Menu" alt="Menu"> 
+
 ## Command
 ````
 • pkg update && pkg upgrade 
