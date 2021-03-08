@@ -12,6 +12,10 @@
 • ls 
 • python2 simple.py
 ````
+## Login
+Token & Cookie
+#
+
 <img src="https://github.com/ROMI-AFRZL/simple/blob/main/rom/s.png" width="640" title="Menu" alt="Menu"> 
 
 #
